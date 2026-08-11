@@ -1,5 +1,22 @@
 # Changelog
 
+## [26.95.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v26.94.0...v26.95.0) (2026-08-11)
+
+
+### Features
+
+* **add:** CK-TLSR8656-SS5-01(7035) ([#12884](https://github.com/Koenkk/zigbee-herdsman-converters/issues/12884)) ([8dcd75a](https://github.com/Koenkk/zigbee-herdsman-converters/commit/8dcd75adc10703a15851bf4a20ed55cb78e32ce3))
+
+
+### Bug Fixes
+
+* AOYAN AY02SZ: fix white label matching ([#12889](https://github.com/Koenkk/zigbee-herdsman-converters/issues/12889)) ([1d4579b](https://github.com/Koenkk/zigbee-herdsman-converters/commit/1d4579bfbc99c6d75032545a9ab8976fcf6509c1))
+* Futurehome Charge: refactor, improve code ([#12880](https://github.com/Koenkk/zigbee-herdsman-converters/issues/12880)) ([deaab43](https://github.com/Koenkk/zigbee-herdsman-converters/commit/deaab4367f71fe84bccb3f989e193c890536c034))
+* OWON DWS332-E: split from DWS312 device definition ([#12873](https://github.com/Koenkk/zigbee-herdsman-converters/issues/12873)) ([9b008a0](https://github.com/Koenkk/zigbee-herdsman-converters/commit/9b008a0f4f51848ad0744868d71acecf34b4dde7))
+* PTM 215Z: match Friends of Hue source-ID range (Senic & Gira smart switch) ([#12890](https://github.com/Koenkk/zigbee-herdsman-converters/issues/12890)) ([680391d](https://github.com/Koenkk/zigbee-herdsman-converters/commit/680391db1317d91ef2450a06f6e47a44ba718828))
+* Schneider Electric:  add custom attributes in lightingBallastCfg to devices configured with dimmingMode ([#12888](https://github.com/Koenkk/zigbee-herdsman-converters/issues/12888)) ([06343aa](https://github.com/Koenkk/zigbee-herdsman-converters/commit/06343aa41d87b6de8ff7e3877fece271b546f48d))
+* Shelly EM Mini Gen4: Force power source ([#12881](https://github.com/Koenkk/zigbee-herdsman-converters/issues/12881)) ([0975b33](https://github.com/Koenkk/zigbee-herdsman-converters/commit/0975b3387e29488c7ffd9097e55a86b1158e7278))
+
 ## [26.94.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v26.93.0...v26.94.0) (2026-08-10)
 
 
